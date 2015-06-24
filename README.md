@@ -1,1 +1,2 @@
 # SeniorProject
+By: Megan Metcalf
